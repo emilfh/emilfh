@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emilfh
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently studying supervised learning in more detail
+- 🌱 I’m currently learning machine learning through AWS
 - 💞️ I’m looking to collaborate on any interesting data science project
 - 📫 How to reach me: can be reached on emil_fh@hotmail.com
 
